@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: thiago@lacostacorretora.com.br
+- 📫 How to reach me: rodclikedev.com
 - 🗺 Nationality: Brazil
 
 ##
