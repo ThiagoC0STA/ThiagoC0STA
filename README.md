@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning mongoDB
-- 📫 How to reach me: rodclikedev@gmail.com
+- 📫 How to reach me: rodcdev.com
 - 🗺 Nationality: Brazil
 
 ##
