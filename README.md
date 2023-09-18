@@ -52,4 +52,6 @@ I'm a passionate developer from Brazil 🇧🇷
 </div>
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/thiagoc0sta/thiagoc0sta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ThiagoC0STA/ThiagoC0STA/blob/output/github-contribution-grid-snake.svg)
+
+
