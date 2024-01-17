@@ -51,7 +51,3 @@ I'm a passionate developer from Brazil 🇧🇷
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoC0STA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/ThiagoC0STA/ThiagoC0STA/blob/output/github-contribution-grid-snake.svg)
-
-
