@@ -26,13 +26,6 @@ I'm a passionate developer from Brazil 🇧🇷
   </a>
 </div>
 
-<!-- Sua descrição e habilidades -->
-## About Me
-
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning MongoDB
-- 🗺 Nationality: Brazil
-
 ## Skills
 
 <div align="center" style="display: inline_block">
