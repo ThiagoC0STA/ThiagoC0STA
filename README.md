@@ -38,15 +38,16 @@
 ---
 
 <!-- ========================== -->
-<!-- ⚡ ABOUT -->
+<!-- 🔥 ABOUT -->
 <!-- ========================== -->
 
 ## 🔥 About Me
 
 - 💻 Frontend Dev — React, Next.js & TypeScript  
 - 🎨 UI focused — animations, microinteractions & pixel-perfect builds  
-- 🚀 Always building something: job boards, SaaS, automations, AI tools  
-- 🎧 Productivity enjoyer — code + playlist = flow mode  
+- 🤖 Automation & AI enjoyer  
+- 🚀 Always building something: SaaS, job boards, automations  
+- 🎧 Code + playlist = flow  
 - 🧠 Vision: create interfaces that feel alive  
 
 ---
@@ -57,26 +58,24 @@
 
 ## 🚀 Tech Stack
 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
-
-  <!-- FRONTEND -->
-  <h3>Frontend</h3>
+### **Frontend**
+<div align="center">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+</div>
 
-  <!-- BACKEND & TOOLS -->
-  <h3>Backend & Tools</h3>
+### **Backend & Tools**
+<div align="center">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-
 </div>
 
 ---
@@ -88,29 +87,41 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoC0STA&show_icons=true&theme=dracula&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoC0STA&layout=compact&theme=dracula">
+
+  <!-- Main Stats -->
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoC0STA&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800"
+  />
+
+  <!-- Languages -->
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoC0STA&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800"
+  />
+
 </div>
 
 ---
 
 <!-- ========================== -->
-<!-- 🧩 RANDOM COOL EXTRAS -->
+<!-- 🎯 FUN -->
 <!-- ========================== -->
 
 ## 🎯 Fun Stuff
 
 > *“Code is poetry, and I’m here rewriting verses until they feel alive.”*
 
-- ✨ Building **TalentFlight** job board  
-- 🤖 Automating everything possible  
+- ✨ Building **TalentFlight**  
+- 🤖 Automating everything  
 - 🎮 Gaming for sanity  
-- 🌙 Night-owl coder with good playlists  
+- 🌙 Night-owl coder  
+- 🎵 100% powered by playlists  
 
 ---
 
 <div align="center">
-  <br>
+  <br><br>
   <b>🔥 Always shipping. Always learning. Always evolving.</b>
   <br><br>
 </div>
