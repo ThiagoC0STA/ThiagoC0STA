@@ -22,17 +22,15 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="180"><h2>6+</h2><sub><b>YEARS BUILDING</b></sub></td>
-    <td align="center" width="20"><sub>·</sub></td>
-    <td align="center" width="180"><h2>50+</h2><sub><b>PRODUCTS SHIPPED</b></sub></td>
-    <td align="center" width="20"><sub>·</sub></td>
-    <td align="center" width="180"><h2>140+</h2><sub><b>CLIENTS</b></sub></td>
-    <td align="center" width="20"><sub>·</sub></td>
-    <td align="center" width="180"><h2>4.9★</h2><sub><b>RATING</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/6%2B-YEARS_BUILDING-1F2937?style=for-the-badge&labelColor=8B5CF6">
+  &nbsp;
+  <img src="https://img.shields.io/badge/50%2B-PRODUCTS_SHIPPED-1F2937?style=for-the-badge&labelColor=EC4899">
+  &nbsp;
+  <img src="https://img.shields.io/badge/140%2B-CLIENTS-1F2937?style=for-the-badge&labelColor=FBBF24">
+  &nbsp;
+  <img src="https://img.shields.io/badge/4.9★-RATING-1F2937?style=for-the-badge&labelColor=10B981">
+</p>
 
 <br/>
 
