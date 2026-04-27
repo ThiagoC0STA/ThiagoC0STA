@@ -22,15 +22,17 @@
 
 <br/>
 
-<p align="center">
-  <code>&nbsp;6+&nbsp;</code> <sub><b>YEARS BUILDING</b></sub>
-  &nbsp;·&nbsp;
-  <code>&nbsp;50+&nbsp;</code> <sub><b>PRODUCTS SHIPPED</b></sub>
-  &nbsp;·&nbsp;
-  <code>&nbsp;140+&nbsp;</code> <sub><b>CLIENTS</b></sub>
-  &nbsp;·&nbsp;
-  <code>&nbsp;4.9★&nbsp;</code> <sub><b>RATING</b></sub>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="180"><h2>6+</h2><sub><b>YEARS BUILDING</b></sub></td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180"><h2>50+</h2><sub><b>PRODUCTS SHIPPED</b></sub></td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180"><h2>140+</h2><sub><b>CLIENTS</b></sub></td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180"><h2>4.9★</h2><sub><b>RATING</b></sub></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -160,16 +162,25 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>🔨 &nbsp;Build end-to-end</h3>
-      <sub>Frontend, backend, infrastructure, and the boring glue between them. From Figma file or one-line brief to deployed product.</sub>
+      <br/>
+      <h2>🔨</h2>
+      <h3>Build end-to-end</h3>
+      <p><sub>Frontend, backend, infrastructure, and the boring glue between them.<br/><br/>From Figma file or one-line brief to deployed product.</sub></p>
+      <br/>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🚀 &nbsp;Lead & ship</h3>
-      <sub>Six years leading product engineering across three founder companies and 140+ clients. I make decisions, unblock teams, ship.</sub>
+      <br/>
+      <h2>🚀</h2>
+      <h3>Lead &amp; ship</h3>
+      <p><sub>Six years leading product engineering across three founder companies and 140+ clients.<br/><br/>I make decisions, unblock teams, and ship.</sub></p>
+      <br/>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🎬 &nbsp;Obsess over UX</h3>
-      <sub>Animation, motion, microinteractions. The interface is part of the product, not a wrapper around the API.</sub>
+      <br/>
+      <h2>🎬</h2>
+      <h3>Obsess over UX</h3>
+      <p><sub>Animation, motion, microinteractions.<br/><br/>The interface is part of the product, not a wrapper around the API.</sub></p>
+      <br/>
     </td>
   </tr>
 </table>
@@ -221,11 +232,19 @@
 
 ## 🎧 Currently fueling the flow
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0d14&interchange=true&bar_color=8B5CF6&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
+<p align="center"><sub><i>Live from my Spotify — updates in real time</i></sub></p>
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0d14&interchange=false&bar_color=ec4899&bar_color_cover=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
