@@ -39,7 +39,7 @@
 
 ### I ship products from concept to enterprise.
 
-<sub>Full-stack engineer and founder out of Curitiba 🇧🇷, six years deep across <b>React · Next.js · TypeScript · Node · Supabase · React Native · Three.js</b>. I currently lead <b><a href="https://agentiiv.com">Agentiiv</a></b> — an enterprise AI platform with 100+ specialized agents, SOC2-certified, partnered with Canada's <b>Vector Institute</b>. Before Agentiiv, three founder companies and 140+ clients across direct, agency, and Upwork engagements.</sub>
+<sub>Full-stack engineer and founder out of Curitiba 🇧🇷, six years deep across <b>React · Next.js · TypeScript · Node · Supabase · React Native · Three.js</b>. Most recently founded and led <b><a href="https://agentiiv.com">Agentiiv</a></b> — an enterprise AI platform with 100+ specialized agents, SOC2-certified, partnered with Canada's <b>Vector Institute</b>. Before that, three founder companies and 140+ clients across direct, agency, and Upwork engagements. <b>Currently between roles and actively looking</b> for a senior frontend / full-stack opportunity.</sub>
 
 <sub><b>Open</b> for senior remote contract / full-time — US / EU timezones, USD or EUR. Best at: shipping enterprise products end-to-end, leading product engineering, building animation-heavy UX.</sub>
 
@@ -209,7 +209,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoC0STA&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0d14&title_color=a78bfa&icon_color=ec4899&text_color=cbd5e1&card_width=440"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoC0STA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0d14&title_color=a78bfa&icon_color=ec4899&text_color=cbd5e1&card_width=440&cache_seconds=86400"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoC0STA&theme=tokyonight&hide_border=true&background=0a0d14&ring=ec4899&fire=ec4899&currStreakLabel=a78bfa"/>
 </p>
 
@@ -222,8 +222,8 @@
 ## 🎧 Currently fueling the flow
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0d14&interchange=true&bar_color=8B5CF6&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fshulak7ygnrxcttmauwydi&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0d14&interchange=true&bar_color=8B5CF6&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
